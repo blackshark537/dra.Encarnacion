@@ -1,0 +1,61 @@
+
+body{
+    font-family: 'Big Shoulders Display', cursive;
+    font-weight: normal;
+    font-size: large;
+    
+}
+
+.bg-left{
+    background-color: pink;
+}
+
+.bg-right{
+    background-color: white;
+}
+
+.list{
+    position: relative;
+    left: 40px;
+}
+
+.circle{
+    border-radius: 150px 0px 200px;
+    margin: 10px;
+}
+
+.icon{
+    position: relative;
+    font-size: 30px;
+}
+
+.left-icon{
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    position: relative;
+    top: -20px;
+    color: white;
+    background-color: #2f2f2f;
+}
+
+.icon{
+    padding: 5px;
+    width: 40px;
+    height: 40px;
+    border-radius: 20px;
+    color: white;
+    background-color: #2f2f2f;
+}
+
+.line{
+    margin-top: 50px;
+    border-bottom: 1px solid gray;
+    height: 1px;
+}
+
+.line-2{
+    border-bottom: 1px solid gray;
+    height: 1px;
+}
